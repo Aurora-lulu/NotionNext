@@ -92,7 +92,7 @@ const SocialButton = () => {
             title={'facebook'}
             href={BLOG.CONTACT_FACEBOOK}
           >
-            <i className="transform hover:scale-125 duration-150 fas  fa-facebook dark:hover:text-indigo-400 hover:text-indigo-600" />
+            <i className="transform hover:scale-125 duration-150 fa-brands fa-facebook dark:hover:text-indigo-400 hover:text-indigo-600" />
           </a>
         )}
       </div>
